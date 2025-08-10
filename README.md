@@ -28,7 +28,10 @@ dotnet run
 ## 📦 NuGet Packages
 
 - `AutoMapper`
+- `Microsoft.AspNetCore.OpenApi`
 - `Microsoft.EntityFrameworkCore`
+- `Microsoft.EntityFrameworkCore.Design`
+- `Microsoft.EntityFrameworkCore.Tools`
 - `Npgsql.EntityFrameworkCore.PostgreSQL`
 - `Swashbuckle.AspNetCore`
 

@@ -1,0 +1,6 @@
+@_81_ASP.NET_route_vs_query_HostAddress = http://localhost:5198
+
+GET {{_81_ASP.NET_route_vs_query_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

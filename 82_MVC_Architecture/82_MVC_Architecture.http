@@ -1,0 +1,6 @@
+@_82_MVC_Architecture_HostAddress = http://localhost:5149
+
+GET {{_82_MVC_Architecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

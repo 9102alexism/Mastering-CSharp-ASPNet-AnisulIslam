@@ -1,0 +1,6 @@
+@_80_ASP.NET_Web_Api_create_run_HostAddress = http://localhost:5171
+
+GET {{_80_ASP.NET_Web_Api_create_run_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
