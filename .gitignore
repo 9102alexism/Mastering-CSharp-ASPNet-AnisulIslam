@@ -2,6 +2,9 @@
 bin/
 obj/
 
+# Tutorial
+TUTORIAL/
+
 # User-specific files
 *.user
 *.suo
